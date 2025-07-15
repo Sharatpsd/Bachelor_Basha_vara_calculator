@@ -1,0 +1,28 @@
+#Bachelor Basha vara calculator🏠
+
+A simple Python script to calculate the per-person monthly cost in a shared bachelor house or mess.
+
+---
+
+## 📌 Features
+
+- Takes inputs for:
+  - House rent
+  - Monthly food cost
+  - Electricity bill
+  - WiFi bill
+  - House help (Bua) cost
+  - Garbage cleaning cost
+  - Gas bill
+  - Total number of people
+
+- Calculates total monthly expense
+- Splits the total cost equally for each person
+
+---
+
+## 🚀 How to Run
+
+1️⃣ Clone the repo
+```bash
+git clone https://github.com/sharatpsd/Bachelor Basha vara calculator.git
